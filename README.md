@@ -29,7 +29,7 @@ I'm interested in software development, embedded systems, and cybersecurity, par
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
   &nbsp;&nbsp;
-  <img src="assets/assembly.svg" width="50" alt="Assembly"/>
+  <img src="assembly.svg" width="50" alt="Assembly"/>
   &nbsp;&nbsp;
-  <img src="assets/maple.svg" width="50" alt="Maple"/>
+  <img src="maple.svg" width="50" alt="Maple"/>
 </p>
