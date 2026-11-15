@@ -8,7 +8,11 @@
 
 </div>
 
----
+
+<p align="center">
+  <img src="divider.svg" width="100%" alt="Divider"/>
+</p>
+
 
 ### > About Me
 
@@ -16,7 +20,11 @@ I'm an undergraduate student at Eskişehir Osmangazi University, studying Mathem
 
 I'm interested in software development, embedded systems, and cybersecurity, particularly where mathematical concepts meet practical engineering.
 
----
+
+<p align="center">
+  <img src="divider.svg" width="100%" alt="Divider"/>
+</p>
+
 
 ### > Skills & Tools
 
