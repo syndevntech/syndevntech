@@ -8,6 +8,7 @@
 </p>
 
 **Electrical & Electronics Engineering**  
+            **and**
 **Mathematics & Computer Science**
 
 </div>
