@@ -1,5 +1,5 @@
 
-<div align="center">
+
 
 # Mehmet Ali Sayan
 
