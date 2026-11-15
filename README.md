@@ -3,6 +3,10 @@
 
 # Mehmet Ali Sayan
 
+<p align="center">
+  <img src="divider.svg" width="100%" alt="Divider"/>
+</p>
+
 **Electrical & Electronics Engineering**  
 **Mathematics & Computer Science**
 
