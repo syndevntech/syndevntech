@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**syndevntech/syndevntech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Mehmet Ali Sayan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Electrical & Electronics Engineering**  
+**Mathematics & Computer Science**
+
+</div>
+
+---
+
+### > About Me
+
+I'm an undergraduate student at Eskişehir Osmangazi University, studying Mathematics & Computer Science alongside a double major in Electrical & Electronics Engineering.
+
+I'm interested in software development, embedded systems, and cybersecurity, particularly where mathematical concepts meet practical engineering.
+
+---
+
+### > Skills & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50" alt="MATLAB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
+  &nbsp;&nbsp;
+  <img src="assets/assembly.svg" width="50" alt="Assembly"/>
+  &nbsp;&nbsp;
+  <img src="assets/maple.svg" width="50" alt="Maple"/>
+</p>
