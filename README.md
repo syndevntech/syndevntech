@@ -1,7 +1,9 @@
 
 
 
-# Mehmet Ali Sayan
+<h1 align="center" style="border-bottom: none;">
+  Mehmet Ali Sayan
+</h1>
 
 <p align="center">
   <img src="divider.svg" width="100%" alt="Divider"/>
